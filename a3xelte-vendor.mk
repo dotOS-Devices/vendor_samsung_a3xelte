@@ -46,7 +46,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a3xelte/proprietary/vendor/etc/wifi/bcmdhd_sta.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bcmdhd_sta.bin \
     vendor/samsung/a3xelte/proprietary/vendor/etc/wifi/nvram_mfg.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram_mfg.txt \
     vendor/samsung/a3xelte/proprietary/vendor/etc/wifi/nvram_net.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram_net.txt \
-    vendor/samsung/a3xelte/proprietary/lib/hw/camera.universal7580.so:system/lib/hw/camera.universal7580.so \
+    vendor/samsung/a3xelte/proprietary/lib/hw/camera.vendor.universal7580.so:system/lib/hw/camera.vendor.universal7580.so \
     vendor/samsung/a3xelte/proprietary/lib/hw/nfc_nci.universal7580.so:system/lib/hw/nfc_nci.universal7580.so \
     vendor/samsung/a3xelte/proprietary/lib/hw/sensors.universal7580.so:system/lib/hw/sensors.universal7580.so \
     vendor/samsung/a3xelte/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
