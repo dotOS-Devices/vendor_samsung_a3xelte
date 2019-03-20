@@ -52,7 +52,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a3xelte/proprietary/lib/hw/sensors.universal7580.so:system/lib/hw/sensors.universal7580.so \
     vendor/samsung/a3xelte/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/a3xelte/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
-    vendor/samsung/a3xelte/proprietary/vendor/firmware/bcm43438A1_V0051.0217.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm43438A1_V0051.0217.hcd \
+    vendor/samsung/a3xelte/proprietary/vendor/firmware/bcm43430A1_V0062.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm43430A1_V0062.hcd \
     vendor/samsung/a3xelte/proprietary/vendor/firmware/fimc_is_fd.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_fd.bin \
     vendor/samsung/a3xelte/proprietary/vendor/firmware/fimc_is_fw2_3l2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_fw2_3l2.bin \
     vendor/samsung/a3xelte/proprietary/vendor/firmware/mfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mfc_fw.bin \
